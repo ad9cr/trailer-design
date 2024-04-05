@@ -31,6 +31,13 @@ Update existing "race trailer" for use as a communication trailer
 - Propane bottle mount
 - Exhaust port for portable air conditioner
 
+## Interior
+
+- tall "closet" storage cabinet for storing hanging garments and other long items
+- two desks to be used as operating positions
+  - one where "normal" state is set up and ready to go within 5 minutes of placing trailer
+  - one where "normal" state is stowed and may require up to 20 minutes to get set up
+
 ## Power systems
 
 - Primary 12v
