@@ -31,6 +31,7 @@ Update existing "race trailer" for use as a communication trailer
 - Propane bottle mount
 - Exhaust port for portable air conditioner
 - Stabilizer "jacks"
+- Repair rear ramp
 
 ## Interior
 
@@ -44,6 +45,8 @@ Update existing "race trailer" for use as a communication trailer
 - Shelves for storage containers
 - LED lighting (separate from existing lighting that's tied into towing electrical system)
 - Replace existing flooring
+- Box or cabinet for files
+- "job site" stackable storage solution (pick an ecosystem and stay with it)
 
 ## Power systems
 
@@ -119,4 +122,5 @@ Update existing "race trailer" for use as a communication trailer
 - Paper towels
 - Toilet paper
 - Disposable dishes
+- Ladder
 
