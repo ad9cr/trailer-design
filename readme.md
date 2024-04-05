@@ -43,6 +43,7 @@ Update existing "race trailer" for use as a communication trailer
 - 1 additional 12v wall mounted display at front of trailer for displaying information (maps, etc)
 - Shelves for storage containers
 - LED lighting (separate from existing lighting that's tied into towing electrical system)
+- Replace existing flooring
 
 ## Power systems
 
@@ -113,4 +114,9 @@ Update existing "race trailer" for use as a communication trailer
 - Battery assortment (specific sizes TBD)
 - fan
 - portable air conditioner
+- First aid kit
+- Trash bags
+- Paper towels
+- Toilet paper
+- Disposable dishes
 
