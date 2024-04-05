@@ -15,6 +15,21 @@ Update existing "race trailer" for use as a communication trailer
 
 - Design *shall not* include plumbing elements which introduce a need for winterization
 
+## Antenna systems
+
+- Roof mounted cell phone antenna
+- Roof mounted "puck" style GPS antenna
+- 4 NMO mounts distributed on sides near each top corner
+- 4 exterior SO-239 connectors distributed on sides near each bottom corner
+- 4 2" hitch receivers attached to frame - one near each corner on side pointing outboard
+
+## Exterior
+
+- 6 "D ring" connectors near bottom - 3 along each side
+- 6 "D ring" connectors near top - 3 along each side
+- Spare tire mount
+- Propane bottle mount
+
 ## Power systems
 
 - Primary 12v
@@ -44,6 +59,8 @@ Update existing "race trailer" for use as a communication trailer
     - 2 on front bulkhead
     - 2 on side bulkheads to the front of the axle
     - 2 on side bulkheads to the read of the axle
+  - Exterior 20A receptacle on passenger side between door and axle
+  - Exterior 20A receptacle on front near center
 - Solar
   - Used only for charging house battery (no direct powering of components)
   - Inlet near driver side front of trailer for external panel (not permanently mounted)
