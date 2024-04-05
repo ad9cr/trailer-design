@@ -29,6 +29,7 @@ Update existing "race trailer" for use as a communication trailer
 - 6 "D ring" connectors near top - 3 along each side
 - Spare tire mount
 - Propane bottle mount
+- Exhaust port for portable air conditioner
 
 ## Power systems
 
