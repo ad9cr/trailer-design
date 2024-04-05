@@ -8,7 +8,7 @@ Update existing "race trailer" for use as a communication trailer
 
 1. Function "off grid" as a communication center for a period of at least 24 hours
 1. Provide storage for radio related gear
-1. Provide comfortable environment in which to conduct radio operations
+1. Provide comfortable environment in which to conduct radio operations. 2 people should be able to work very comfortably with up 4 people able to work less comfortably.
 1. When practical, avoid exterior characteristics that could advertise the presence of expensive equipment
 
 ## Exclusions/Constraints
