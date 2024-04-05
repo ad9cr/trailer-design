@@ -30,13 +30,19 @@ Update existing "race trailer" for use as a communication trailer
 - Spare tire mount
 - Propane bottle mount
 - Exhaust port for portable air conditioner
+- Stabilizer "jacks"
 
 ## Interior
 
 - tall "closet" storage cabinet for storing hanging garments and other long items
-- two desks to be used as operating positions
-  - one where "normal" state is set up and ready to go within 5 minutes of placing trailer
-  - one where "normal" state is stowed and may require up to 20 minutes to get set up
+- 2 desks to be used as operating positions
+  - 1 where "normal" state is set up and ready to go within 5 minutes of placing trailer
+  - 1 where "normal" state is stowed and may require up to 20 minutes to get set up
+  - 1 each wall mounted 12v display
+  - Desk lamp
+- 1 additional 12v wall mounted display at front of trailer for displaying information (maps, etc)
+- Shelves for storage containers
+- LED lighting (separate from existing lighting that's tied into towing electrical system)
 
 ## Power systems
 
@@ -77,3 +83,31 @@ Update existing "race trailer" for use as a communication trailer
   - Use Dewalt cordless tool ecosystem for interoperability
   - Multi-battery charger connected to AC circuit and located with other battery charging
   - Step-down transformer with Anderson Power Pole connectors on load side to allow batteries to be used for critical components if necessary
+ 
+## "Raw" list of items (TODO: move to categorized list)
+
+- Propane grill
+- Headlamp
+- Office supplies
+- Secure firearm storage
+- Tire changing equipment
+- Baby wipes
+- Rain gear
+- Tape (duct, painter, electrical)
+- Mount for lists (clipboard mount)
+- Camping toilet
+- Pop-up canopy
+- Pop-up privacy screen/changing room
+- Propane heater
+- 12v blanket
+- work gloves
+- safety glasses
+- safety vests
+- hard hat
+- thick nitrile gloves
+- bottled water
+- MREs
+- 6ft folding table
+- 4 folding chairs
+- Battery assortment (specific sizes TBD)
+
