@@ -107,7 +107,10 @@ Update existing "race trailer" for use as a communication trailer
 - thick nitrile gloves
 - bottled water
 - MREs
+- Job site lighting
 - 6ft folding table
 - 4 folding chairs
 - Battery assortment (specific sizes TBD)
+- fan
+- portable air conditioner
 
