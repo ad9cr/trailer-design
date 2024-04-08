@@ -95,6 +95,8 @@ Update existing "race trailer" for use as a communication trailer
 - Office supplies
 - Secure firearm storage
 - Tire changing equipment
+- Torque wrench
+- Asphalt pavers
 - Baby wipes
 - Rain gear
 - Tape (duct, painter, electrical)
